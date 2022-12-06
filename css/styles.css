@@ -1,0 +1,25 @@
+/* Name:Rodney Bradshaw
+Class:WEB125
+Date:11/30/2022
+*/
+
+/* Carousel */
+  .carousel-caption {
+	  background: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+  }
+  /* Colors:
+  #9a9599-grey
+#60c8e1=light blue
+#206faa-dark blue
+
+  */
+.navbarcolor{
+  background-color:#60c8e1 ;
+}
+.footercolor{
+  background-color:#206faa ;
+}
+.fstyle{
+  font-family: 'Dancing Script', cursive;
+}
